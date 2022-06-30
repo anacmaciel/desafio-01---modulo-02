@@ -12,6 +12,8 @@ public class JogoAdivinhaNumero {
 
         Scanner input = new Scanner(System.in);
 
+        System.out.println("Digite um número e tecle enter");
+
         int respostaUsuario = input.nextInt();
         input.close();
 
