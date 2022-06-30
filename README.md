@@ -1,2 +1,2 @@
 # desafio-01---modulo-02
-desafio 01 módulo 02 do programa de formação catalisa, a proposta é um programa que sortei números aleatórios, conforme o usuário acerta ganha pontuação, pontos máximos por jogada 10, mínimo 5, se acertar um número antes e depois do que o sistema gerar.
+desafio 01 módulo 02 do programa de formação catalisa, a proposta é um programa que sortei números aleatórios, conforme o usuário acerta ganha uma pontuação predeterminada,  pontos máximos por acerto 10, se acertar exatamente o número que o sistema escolher, 5 se o número escolhido for um a cima ou a baixo. 

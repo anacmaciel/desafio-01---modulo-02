@@ -27,7 +27,9 @@ public class JogoAdivinhaNumero {
             int pontosAcertoAproximado = 5;
             System.out.println("sua resposta foi aproximada em uma unidade, você recebeu" + pontosAcertoAproximado + " pontos");
         } else if (respostaUsuario != sortearNumeroAleatorio) {
-            System.out.println("você errou.");
+
+            int pontos = 0;
+            System.out.println("você errou, você tem" + pontos + "pontos.");
 
 
         } else {
