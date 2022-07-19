@@ -1,2 +1,9 @@
-# desafio-01---modulo-02
-desafio 01 módulo 02 do programa de formação catalisa, a proposta é um programa que sortei números aleatórios, conforme o usuário acerta ganha uma pontuação predeterminada,  pontos máximos por acerto 10, se acertar exatamente o número que o sistema escolher, 5 se o número escolhido for um a cima ou a baixo. 
+Desafio 01 - módulo 02
+
+Você deve gerar um número aleatório e comparar com a resposta vinda do usuário. Caso seja o mesmo número o usuário ganha 10 pontos, caso seja número diferente o programa deve comparar para saber se o número está 1 acima ou 1 abaixo do número sorteado, caso positivo o usuário ganha 5 pontos, caso negativo o usuário apenas perde. No fim deverá ser exibida a pontuação do usuário. Tudo via console.
+Entrega Mínima: Sistema sorteia o número e realiza todas as comparação, no final ele exibe a pontuação correta
+Entrega Média: O sistema permite jogar mais de uma vez e soma todas as pontuações.
+Entrega Máxima: O sistema permite adicionar nível de dificuldade de alguma forma e exibe, além da pontuação, os números que o usuário errou e acertou.
+
+Como entregar o desafio:
+Documentar a entrega marcando no classroom e adicionar o link do repositório do GitHub contendo o código do desafio e a descrição do projeto no arquivo Readme.md, ou seja, você irá criar um repositório para essa aula e mandar o link dele, com os exercícios finalizados, via classroom.
